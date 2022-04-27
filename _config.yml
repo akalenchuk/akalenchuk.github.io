@@ -125,7 +125,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/ardarvin"
+      url: "https://instagram.com/ardarvin"
 
 # Site Footer
 footer:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/ardarvin"
 
 
 # Reading Files
