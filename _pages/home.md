@@ -46,5 +46,6 @@ feature_row2:
 {% include feature_row %}
 
 <h1>Media Portfolio</h1>
+
 {% include feature_row id="feature_row2" %}
 
