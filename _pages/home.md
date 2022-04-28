@@ -17,27 +17,27 @@ excerpt: "Product Manager, Computer Vision Expert, Web Developer, Fabricator, Al
 feature_row:
   - image_path: assets/images/vision.jpg
     alt: "Computer Vision"
+  - image_path: /assets/images/office.jpg
+    alt: "The Office"
   - image_path: /assets/images/fabricator.jpg
-    alt: "welding"
+    alt: "Welding"
     
 feature_row2:
   - image_path: /assets/images/gallery3.jpg
     alt: "Photos"
-    title: Photos"
     url: "/photos/"
     excerpt: 'Captured moments'
     btn_label: "Photos"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Videos"
-    title: Videos"
     excerpt: 'Work related and non'
     url: "#test-link"
     btn_label: "Videos"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/writing.jpg
     alt: "Writing"
-    title: "Writing"
+    title: Writing
     excerpt: 'Technical writing and entertainment'
     url: "#test-link"
     btn_label: "Writing"
