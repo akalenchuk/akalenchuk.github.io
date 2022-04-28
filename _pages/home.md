@@ -22,12 +22,31 @@ feature_row:
     title: "cameras"
   - image_path: /assets/images/fabricator.jpg
     alt: "welding"
+
+ 
+gallery:
+  - url: /assets/images/gallery1.jpg
+    image_path: /assets/images/gallery1.jpg
+    alt: "gallery1"
+  - url: /assets/images/gallery2.jpg
+    image_path: /assets/images/gallery2.jpg
+    alt: "gallery2"
+  - url: /assets/images/gallery3.jpg
+    image_path: /assets/images/gallery3.jpg
+    alt: "gallery3"
+  - url: /assets/images/gallery4.jpg
+    image_path: /assets/images/gallery4.jpg
+    alt: "gallery3"
+  - url: /assets/images/gallery5.jpg
+    image_path: /assets/images/gallery5.jpg
+    alt: "gallery5"
+    
 feature_row2:
   - image_path: /assets/images/gallery1.jpg
     alt: "Media Portfolio"
     title: "Media Portfolio"
     excerpt: ''
- 
+    
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -41,6 +60,8 @@ feature_row3:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include gallery caption="Photography Portfolio" %}
 
 {% include feature_row id="feature_row2" type="center" %}
 
