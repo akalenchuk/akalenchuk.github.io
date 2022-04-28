@@ -39,10 +39,6 @@ feature_row2:
     btn_label: "Writing"
     btn_class: "btn--primary" 
     
- footer:
-   overlay_color: "#000"
-   overlay_filter: "0.2"
-   overlay_image: /assets/images/splash2.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
