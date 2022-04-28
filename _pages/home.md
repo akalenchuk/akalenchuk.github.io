@@ -17,12 +17,11 @@ excerpt: "Product Manager, Computer Vision Expert, Web Developer, Fabricator, Al
 feature_row:
   - image_path: assets/images/vision.jpg
     alt: "Computer Vision"
-    title: "Computer Vision"
+  - image_path: /assets/images/vision3.jpg
+    alt: "cameras"
+    title: "cameras"
   - image_path: /assets/images/fabricator.jpg
-    alt: "Fabricator"
-    title: "Fabricator"
-  - image_path: /assets/images/fabricator2.jpg
-    title: "Fabricator2"
+    alt: "welding"
 feature_row2:
   - image_path: /assets/images/gallery1.jpg
     alt: "Media Portfolio"
