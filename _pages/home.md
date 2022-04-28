@@ -32,14 +32,14 @@ feature_row2:
   - image_path: /assets/images/videos.jpg
     alt: "Videos"
     excerpt: 'Work related and non'
-    url: "#test-link"
+    url: "/videos/"
     btn_label: "Videos"
     btn_class: "btn--primary"
   - image_path: /assets/images/writing.jpg
     alt: "Writing"
     title: Writing
-    excerpt: 'Technical writing and entertainment'
-    url: "#test-link"
+    excerpt: 'Technical writing and blog highlights'
+    url: "/writing/"
     btn_label: "Writing"
     btn_class: "btn--primary" 
 ---
