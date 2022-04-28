@@ -1,5 +1,5 @@
 ---
-title: "Arlin Kalenchuk - Photography"
+title: "Photography"
 layout: single
 permalink: /photos/
 hidden: true
@@ -21,6 +21,28 @@ gallery:
   - url: /assets/images/gallery5.jpg
     image_path: /assets/images/gallery5.jpg
     alt: "gallery5"
+    - url: /assets/images/gallery6.jpg
+    image_path: /assets/images/gallery6.jpg
+    alt: "gallery6"
+    - url: /assets/images/gallery7.jpg
+    image_path: /assets/images/gallery7.jpg
+    alt: "gallery7"
+    - url: /assets/images/gallery8.jpg
+    image_path: /assets/images/gallery8.jpg
+    alt: "gallery8"
+    - url: /assets/images/gallery9.jpg
+    image_path: /assets/images/gallery9.jpg
+    alt: "gallery9"
+    - url: /assets/images/gallery10.jpg
+    image_path: /assets/images/gallery10.jpg
+    alt: "gallery10"
+    - url: /assets/images/gallery11.jpg
+    image_path: /assets/images/gallery11.jpg
+    alt: "gallery11"
+    - url: /assets/images/gallery12.jpg
+    image_path: /assets/images/gallery12.jpg
+    alt: "gallery12"
 ---
 
-{% include gallery caption="Photography Portfolio" %}
+The following captured moments are from my pursuit of various hobbies and travels. All photos by me, shot digitally on a Canon EOS 60D, and color balanced in Adobe Lightroom.
+{% include gallery %}
