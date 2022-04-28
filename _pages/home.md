@@ -23,7 +23,7 @@ feature_row:
     alt: "Welding"
     
 feature_row2:
-  - image_path: /assets/images/photos.jpg
+  - image_path:  <a href="https://akalenchuk.github.io/photos"><img src="/assets/images/photos.jpg" /></a>
     alt: "Photos"
     url: "/photos/"
     btn_label: "Photos"
