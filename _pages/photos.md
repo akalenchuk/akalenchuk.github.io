@@ -1,6 +1,7 @@
 ---
 title: "Photography"
 layout: single
+author_profile: true
 permalink: /photos/
 hidden: true
 date: 2022-04-27T11:48:41-04:00
