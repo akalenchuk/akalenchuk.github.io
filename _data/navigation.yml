@@ -1,9 +1,9 @@
 # main links
 main:
    - title: "Home"
-    url: https://akalenchuk.github.io/
+    url: /
    - title: "Photos"
-     url: https://akalenchuk.github.io/photos/
+     url: /photos/
    - title: "Videos"
      url: /videos/
    - title: "Writing"
