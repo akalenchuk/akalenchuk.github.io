@@ -22,15 +22,13 @@ feature_row:
     alt: "Fabricator"
     title: "Fabricator"
   - image_path: /assets/images/fabricator2.jpg
-    title: "Placeholder 3"
+    title: "Fabricator2"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/gallery1.jpg
+    alt: "Media Portfolio"
+    title: "Media Portfolio"
+    excerpt: ''
+ 
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
