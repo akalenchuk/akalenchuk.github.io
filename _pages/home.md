@@ -1,6 +1,8 @@
 ---
 title: "Arlin Kalenchuk"
 layout: splash
+permalink: /
+hidden: true
 date: 2022-04-27T11:48:41-04:00
 header:
   overlay_color: "#000"
