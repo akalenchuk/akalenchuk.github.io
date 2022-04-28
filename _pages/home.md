@@ -12,7 +12,7 @@ header:
     - label: "Download Resume"
       url: /assets/Arlin-Kalenchuk-Resume.pdf
   caption: ""
-excerpt: "Product Manager, Computer Vision Expert, Web Developer, Fabricator, Always leveling up"
+excerpt: "Product Manager, Computer Vision Expert, Team Builder, Fabricator, Always leveling up"
 
 feature_row:
   - image_path: assets/images/vision.jpg
@@ -23,13 +23,13 @@ feature_row:
     alt: "Welding"
     
 feature_row2:
-  - image_path: /assets/images/gallery3.jpg
+  - image_path: /assets/images/photos.jpg
     alt: "Photos"
     url: "/photos/"
     excerpt: 'Captured moments'
     btn_label: "Photos"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/videos.jpg
     alt: "Videos"
     excerpt: 'Work related and non'
     url: "#test-link"
@@ -48,8 +48,6 @@ feature_row2:
 
 {% include feature_row %}
 
-
-
-Portfolio
+<h2>Media Portfolio</h2>
 {% include feature_row id="feature_row2" type="center" %}
 
