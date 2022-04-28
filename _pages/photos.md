@@ -45,6 +45,7 @@ gallery:
     alt: "gallery12"
 ---
 
-The following captured moments are from my pursuit of various hobbies and travels. All photos by me, shot digitally on a Canon EOS 60D, and color balanced in Adobe Lightroom.
+The following captured moments are from my pursuit of various hobbies and travels. 
 
 {% include gallery %}
+All photos by me, shot digitally on a Canon EOS 60D, and color balanced in Adobe Lightroom.
