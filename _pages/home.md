@@ -12,7 +12,7 @@ header:
     - label: "Download Resume"
       url: /assets/Arlin-Kalenchuk-Resume.pdf
   caption: ""
-excerpt: "Product Manager, Computer Vision Expert, Team Builder, Fabricator, Always leveling up"
+excerpt: "Product Manager, Computer Vision Expert, Team Builder, Fabricator, Always Leveling Up"
 
 feature_row:
   - image_path: assets/images/vision.jpg
@@ -49,5 +49,5 @@ feature_row2:
 {% include feature_row %}
 
 <h2>Media Portfolio</h2>
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" %}
 
