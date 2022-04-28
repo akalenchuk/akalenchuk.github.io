@@ -19,7 +19,6 @@ feature_row:
     alt: "Computer Vision"
   - image_path: /assets/images/vision3.jpg
     alt: "cameras"
-    title: "cameras"
   - image_path: /assets/images/fabricator.jpg
     alt: "welding"
 
