@@ -26,19 +26,15 @@ feature_row2:
   - image_path: /assets/images/photos.jpg
     alt: "Photos"
     url: "/photos/"
-    excerpt: 'Captured moments'
     btn_label: "Photos"
     btn_class: "btn--primary"
   - image_path: /assets/images/videos.jpg
     alt: "Videos"
-    excerpt: 'Work related and non'
     url: "/videos/"
     btn_label: "Videos"
     btn_class: "btn--primary"
   - image_path: /assets/images/writing.jpg
     alt: "Writing"
-    title: Writing
-    excerpt: 'Technical writing and blog highlights'
     url: "/writing/"
     btn_label: "Writing"
     btn_class: "btn--primary" 
@@ -48,6 +44,6 @@ feature_row2:
 
 {% include feature_row %}
 
-<h2>Media Portfolio</h2>
+<h1>Media Portfolio</h1>
 {% include feature_row id="feature_row2" %}
 
