@@ -21,7 +21,7 @@ feature_row:
     alt: "welding"
     
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/gallery3.jpg
     alt: "Photos"
     title: Photos"
     url: "/photos/"
