@@ -15,7 +15,7 @@ header:
 excerpt: "Product Manager, Computer Vision Expert, Team Builder, Fabricator, Always Leveling Up"
 
 feature_row:
-  - image_path: <a href="https://akalenchuk.github.io/photos"><img src="https://akalenchuk.github.io/assets/images/vision.jpg" /></a>
+  - image_path: /assets/images/vision.jpg
     alt: "Computer Vision"
   - image_path: /assets/images/office.jpg
     alt: "The Office"
